@@ -1,0 +1,89 @@
+,sex,diagnosis,loc,ki,gtv,status
+1,Female,Meningioma,Infratentorial,90,6.11,0
+2,Male,HG glioma,Supratentorial,90,19.35,1
+3,Female,Meningioma,Infratentorial,70,7.95,0
+4,Female,LG glioma,Supratentorial,80,7.61,1
+5,Male,HG glioma,Supratentorial,90,5.06,1
+6,Female,Meningioma,Supratentorial,80,4.82,0
+7,Male,Meningioma,Supratentorial,80,3.19,0
+8,Male,LG glioma,Supratentorial,80,12.37,0
+9,Female,Meningioma,Supratentorial,70,12.16,0
+10,Male,HG glioma,Supratentorial,100,2.53,0
+11,Male,LG glioma,Supratentorial,80,0.14,1
+12,Female,Meningioma,Infratentorial,90,6.54,0
+13,Female,Meningioma,Infratentorial,90,0.63,0
+14,Male,NA,Supratentorial,90,6.38,0
+15,Female,Meningioma,Supratentorial,60,9.18,0
+16,Female,HG glioma,Supratentorial,70,11.38,1
+17,Female,Other,Infratentorial,60,24,1
+18,Male,HG glioma,Supratentorial,90,10.8,0
+19,Male,Meningioma,Supratentorial,80,13.49,1
+20,Female,Meningioma,Supratentorial,90,2.5,0
+21,Female,Meningioma,Supratentorial,80,2.82,0
+22,Male,HG glioma,Supratentorial,70,14.44,1
+23,Female,Other,Infratentorial,80,2.11,0
+24,Female,Meningioma,Infratentorial,100,2.13,1
+25,Female,Meningioma,Supratentorial,70,6.48,1
+26,Male,LG glioma,Supratentorial,90,4.23,1
+27,Male,Other,Supratentorial,60,34.64,1
+28,Male,HG glioma,Supratentorial,70,33.69,1
+29,Male,Meningioma,Supratentorial,60,3.81,0
+30,Female,Meningioma,Supratentorial,90,4.72,0
+31,Female,LG glioma,Supratentorial,80,0.85,1
+32,Male,Meningioma,Supratentorial,90,2.56,0
+33,Female,Other,Infratentorial,70,13.45,1
+34,Male,Other,Infratentorial,80,6.81,0
+35,Female,Meningioma,Supratentorial,90,7.3,0
+36,Female,Other,Supratentorial,70,14.26,0
+37,Female,Meningioma,Supratentorial,80,6.6,0
+38,Male,HG glioma,Supratentorial,90,9.95,1
+39,Male,Other,Infratentorial,80,12.51,1
+40,Female,Meningioma,Supratentorial,90,2.54,0
+41,Female,Meningioma,Supratentorial,80,1.57,0
+42,Male,HG glioma,Supratentorial,90,0.28,1
+43,Female,Meningioma,Supratentorial,70,6.7,0
+44,Male,Meningioma,Supratentorial,80,12.63,1
+45,Male,Other,Infratentorial,90,3.12,0
+46,Male,Meningioma,Supratentorial,60,7.09,1
+47,Male,HG glioma,Supratentorial,80,29.27,0
+48,Female,Meningioma,Supratentorial,80,26.31,1
+49,Male,Meningioma,Supratentorial,70,0.97,1
+50,Female,LG glioma,Supratentorial,80,0.19,0
+51,Female,HG glioma,Supratentorial,90,0.04,0
+52,Female,Meningioma,Infratentorial,90,9.24,0
+53,Male,HG glioma,Supratentorial,90,2.5,1
+54,Male,Meningioma,Infratentorial,80,24.41,0
+55,Female,HG glioma,Supratentorial,80,0.63,1
+56,Male,Other,Infratentorial,90,0.48,0
+57,Male,HG glioma,Infratentorial,80,0.22,0
+58,Male,HG glioma,Supratentorial,80,3.75,1
+59,Female,Other,Supratentorial,80,11.83,1
+60,Female,Meningioma,Supratentorial,90,2.47,0
+61,Female,HG glioma,Supratentorial,80,12.08,1
+62,Male,Meningioma,Supratentorial,80,11.51,1
+63,Female,HG glioma,Supratentorial,40,22.87,1
+64,Male,Meningioma,Supratentorial,80,4.77,0
+65,Male,LG glioma,Supratentorial,80,9.58,0
+66,Female,Meningioma,Supratentorial,100,4,0
+67,Female,HG glioma,Supratentorial,80,7.59,1
+68,Male,Other,Infratentorial,70,0.01,0
+69,Female,Meningioma,Supratentorial,80,6.93,0
+70,Female,Meningioma,Supratentorial,70,3.63,0
+71,Male,Meningioma,Supratentorial,70,8.45,0
+72,Male,Meningioma,Supratentorial,80,20.93,1
+73,Male,LG glioma,Supratentorial,90,2.64,0
+74,Female,HG glioma,Supratentorial,80,0.19,1
+75,Male,Other,Supratentorial,100,24.91,0
+76,Female,Meningioma,Supratentorial,80,31.74,0
+77,Female,Meningioma,Supratentorial,80,2.39,0
+78,Female,Meningioma,Supratentorial,90,7.26,0
+79,Female,Meningioma,Supratentorial,100,9.66,0
+80,Female,Meningioma,Infratentorial,70,2.94,0
+81,Female,HG glioma,Supratentorial,80,15.45,1
+82,Female,Other,Supratentorial,90,1.82,0
+83,Male,LG glioma,Infratentorial,90,30.41,0
+84,Male,HG glioma,Supratentorial,80,0.16,1
+85,Male,HG glioma,Supratentorial,80,19.81,1
+86,Male,Meningioma,Supratentorial,90,2.5,0
+87,Male,Meningioma,Supratentorial,90,2.02,0
+88,Male,Other,Infratentorial,80,0.11,0
